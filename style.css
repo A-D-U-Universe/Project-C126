@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+#size{
+    height:170px;
+    width:170px;
+    margin: 0%;
+}
+
+.div_S.H.I.E.L.D{
+    float: left;
+}
+
+#S.H.I.E.L.D{
+    float: left;
+}
+
+
+
+
+
